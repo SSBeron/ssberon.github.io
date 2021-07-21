@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    float: left;
+    width: 100px;
+    margin: 25px 915px;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+}
+
+.main {
+    width: 63.3%;
+    height: 15%;
+    background: url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) no-repeat 80%;  
+}
+
+.text h3{
+    width: 100%;
+    height: 100px;
+    text-align: justify;
+    margin: -30px 33%; 
+    }
+
+.img {
+    height: 500px;
+    width: 100%;
+    background: url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0.png) no-repeat;
+}
+
+.menu {
+    float: left;
+}
+
+ .titl1 {
+    display: block;
+    width: 100px;
+    height: 30px;
+    margin: 20px 0px 0px 400px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    
+}
+
+ .titl2 {
+    width: 100px;
+    height: 30px;
+    margin: 0px 0px 0px 400px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.titl3 {
+    display: block;
+    width: 200px;
+    height: 30px;
+    margin: -140px 0px 0px 800px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.txt1 {
+    display: block;
+    width: 150px;
+    height: 30px;
+    margin: 0px 0px 0px 400px;
+    font-size: 17px;
+    
+}
+
+.txt2 {
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 10px 0px 0px 400px;
+    font-size: 17px;
+}
+
+.txt3 {
+    display: block;
+    width: 750px;
+    height: 30px;
+    margin: 0px 0px 0px 800px;
+    font-size: 17px;
+}
